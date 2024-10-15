@@ -2,6 +2,12 @@
 
 Mobil Geliştirme Dersi Ödevleri için
 
+Dart Dosyaları lib klasörü içinde
+
+
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
